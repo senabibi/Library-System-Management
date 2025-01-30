@@ -1,11 +1,23 @@
-# Library Management System using SQL - P2
+<h1 align="center">Library Management System</h1>
 
 [![Contributors](https://img.shields.io/github/contributors/senabibi/LibrarySystemManagement)](https://github.com/senabibi/LibrarySystemManagement/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/senabibi/LibrarySystemManagement)](https://github.com/senabibi/LibrarySystemManagement/network/members)
 [![Stargazers](https://img.shields.io/github/stars/senabibi/LibrarySystemManagement)](https://github.com/senabibi/LibrarySystemManagement)
-[![Issues](https://img.shields.io/github/issues/senabibi/LibrarySystemManagemen)](https://github.com/senabibi/PostgresqlTopTen/issues)
-[![MIT License](https://img.shields.io/github/license/senabibi/LibrarySystemManagemen)](https://opensource.org/licenses/MIT)
+[![Issues](https://img.shields.io/github/issues/senabibi/LibrarySystemManagement)](https://github.com/senabibi/LibrarySystemManagement/issues)
+[![MIT License](https://img.shields.io/github/license/senabibi/LibrarySystemManagement)](https://opensource.org/licenses/MIT)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nursena%20Bitirgen-blue)](https://www.linkedin.com/in/nursena-bitirgen-5743341b9/)
+ 
+
+ <div align="center">
+  <img src="https://github.com/senabibi/LibrarySystemManagement/blob/main/Screenshot%202025-01-30%20113440.png" alt="Logo" width="1200" height="500"></div>
+
+
+
+
+## About The Project
+
+The **Library Management System using SQL** project demonstrates the use of SQL to design and implement a system to manage library data. This includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries for efficient data retrieval. The project is intended to help users understand database management, relationships between tables, and best practices for SQL querying.
 
 ## Table of Contents
 
@@ -24,9 +36,8 @@
 
 ---
 
-## About The Project
 
-The **Library Management System using SQL** project demonstrates the use of SQL to design and implement a system to manage library data. This includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries for efficient data retrieval. The project is intended to help users understand database management, relationships between tables, and best practices for SQL querying.
+
 
 ### Objectives
 
@@ -189,7 +200,8 @@ To use the **Library Management System** project, follow these steps to set up a
      ```
 
    - These SQL commands will create the tables for managing branches, employees, members, books, and issued books. Be sure to replace any placeholder values if necessary.
-
+<div align="center">
+  <img src="https://github.com/senabibi/LibrarySystemManagement/blob/main/Screenshot%202025-01-30%20145138.png" alt="Logo" width="1200" height="500"></div>
 ### 3. **Menu-Driven Interface:**
    - Once the database is set up, the system will provide a menu-driven interface allowing you to perform different operations, such as:
      - **Add new books** to the library collection
