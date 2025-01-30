@@ -10,7 +10,7 @@
  
 
  <div align="center">
-  <img src="https://github.com/senabibi/LibrarySystemManagement/blob/main/Screenshot%202025-01-30%20113440.png" alt="Logo" width="1200" height="500"></div>
+  <img src="https://github.com/senabibi/LibrarySystemManagement/blob/main/Screenshot%202025-01-30%20113440.png" alt="Logo" width="1500" height="500"></div>
 
 
 
